@@ -4,4 +4,6 @@ Spring的功能底层都依赖于它的<u>两个核心特性</u>，**依赖注�
 
  
 
-![微信截图_20190501234020](G:\study\SpringStudy\SpringInAction\微信截图_20190501234020.png)
+![1556732886000](第1部分 Spring核心.assets/1556732886000.png)
+
+test
